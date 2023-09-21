@@ -1,6 +1,6 @@
 NETFLIX STOCK PRICE PREDICTION
 Overview:
-This project is aimed at predicting the future stock price of Netflix (NFLX) using machine learning techniques. We will utilize historical stock price data and various machine learning algorithms to build a predictive model.
+This project is aimed at predicting the future stock price of Netflix (NFLX) using machine learning techniques. We will utilize historical stock price data and various machine learning algorithms to build a predictive model.Using and Importing Intel library packages the following project is created.
 
 Table of Contents:
 Data
